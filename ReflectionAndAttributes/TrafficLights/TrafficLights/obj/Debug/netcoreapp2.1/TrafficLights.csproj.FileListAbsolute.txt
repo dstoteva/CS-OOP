@@ -1,0 +1,11 @@
+C:\Users\dstoteva\source\repos\TrafficLights\TrafficLights\bin\Debug\netcoreapp2.1\TrafficLights.deps.json
+C:\Users\dstoteva\source\repos\TrafficLights\TrafficLights\bin\Debug\netcoreapp2.1\TrafficLights.runtimeconfig.json
+C:\Users\dstoteva\source\repos\TrafficLights\TrafficLights\bin\Debug\netcoreapp2.1\TrafficLights.runtimeconfig.dev.json
+C:\Users\dstoteva\source\repos\TrafficLights\TrafficLights\bin\Debug\netcoreapp2.1\TrafficLights.dll
+C:\Users\dstoteva\source\repos\TrafficLights\TrafficLights\bin\Debug\netcoreapp2.1\TrafficLights.pdb
+C:\Users\dstoteva\source\repos\TrafficLights\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.csprojAssemblyReference.cache
+C:\Users\dstoteva\source\repos\TrafficLights\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.csproj.CoreCompileInputs.cache
+C:\Users\dstoteva\source\repos\TrafficLights\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.AssemblyInfoInputs.cache
+C:\Users\dstoteva\source\repos\TrafficLights\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.AssemblyInfo.cs
+C:\Users\dstoteva\source\repos\TrafficLights\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.dll
+C:\Users\dstoteva\source\repos\TrafficLights\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.pdb

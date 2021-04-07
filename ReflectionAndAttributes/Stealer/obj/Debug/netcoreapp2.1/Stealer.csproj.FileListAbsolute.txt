@@ -1,0 +1,11 @@
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\Stealer\bin\Debug\netcoreapp2.1\Stealer.deps.json
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\Stealer\bin\Debug\netcoreapp2.1\Stealer.runtimeconfig.json
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\Stealer\bin\Debug\netcoreapp2.1\Stealer.runtimeconfig.dev.json
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\Stealer\bin\Debug\netcoreapp2.1\Stealer.dll
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\Stealer\bin\Debug\netcoreapp2.1\Stealer.pdb
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\Stealer\obj\Debug\netcoreapp2.1\Stealer.csprojAssemblyReference.cache
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\Stealer\obj\Debug\netcoreapp2.1\Stealer.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\Stealer\obj\Debug\netcoreapp2.1\Stealer.AssemblyInfoInputs.cache
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\Stealer\obj\Debug\netcoreapp2.1\Stealer.AssemblyInfo.cs
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\Stealer\obj\Debug\netcoreapp2.1\Stealer.dll
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\Stealer\obj\Debug\netcoreapp2.1\Stealer.pdb

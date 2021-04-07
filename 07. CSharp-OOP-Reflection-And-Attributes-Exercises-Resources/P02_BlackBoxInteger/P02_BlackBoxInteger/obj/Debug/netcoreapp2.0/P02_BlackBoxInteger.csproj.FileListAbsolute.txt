@@ -1,0 +1,11 @@
+D:\SoftUni\temp\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.deps.json
+D:\SoftUni\temp\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.runtimeconfig.json
+D:\SoftUni\temp\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.runtimeconfig.dev.json
+D:\SoftUni\temp\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.dll
+D:\SoftUni\temp\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.pdb
+D:\SoftUni\temp\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.csprojAssemblyReference.cache
+D:\SoftUni\temp\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.csproj.CoreCompileInputs.cache
+D:\SoftUni\temp\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.AssemblyInfoInputs.cache
+D:\SoftUni\temp\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.AssemblyInfo.cs
+D:\SoftUni\temp\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.dll
+D:\SoftUni\temp\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleDatabase", "PeopleDatabase\PeopleDatabase.csproj", "{60AE4A3C-EA38-4FEE-ACFC-0EA0053B83E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleDatabase.Tests", "PeopleDatabase.Tests\PeopleDatabase.Tests.csproj", "{90B57AD7-3A03-4AA7-B3B2-54ED6DB9AC2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60AE4A3C-EA38-4FEE-ACFC-0EA0053B83E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60AE4A3C-EA38-4FEE-ACFC-0EA0053B83E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60AE4A3C-EA38-4FEE-ACFC-0EA0053B83E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60AE4A3C-EA38-4FEE-ACFC-0EA0053B83E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90B57AD7-3A03-4AA7-B3B2-54ED6DB9AC2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B57AD7-3A03-4AA7-B3B2-54ED6DB9AC2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B57AD7-3A03-4AA7-B3B2-54ED6DB9AC2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B57AD7-3A03-4AA7-B3B2-54ED6DB9AC2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2362236C-9E60-4EB5-94E6-D59B11E36873}
+	EndGlobalSection
+EndGlobal

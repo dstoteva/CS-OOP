@@ -1,0 +1,17 @@
+D:\SoftUni\c#-OOP\SkeletonExercise\Chainblock - Skeleton\Chainblock.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\SoftUni\c#-OOP\SkeletonExercise\Chainblock - Skeleton\Chainblock.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\SoftUni\c#-OOP\SkeletonExercise\Chainblock - Skeleton\Chainblock.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\SoftUni\c#-OOP\SkeletonExercise\Chainblock - Skeleton\Chainblock.Tests\bin\Debug\netcoreapp2.1\Chainblock.Tests.deps.json
+D:\SoftUni\c#-OOP\SkeletonExercise\Chainblock - Skeleton\Chainblock.Tests\bin\Debug\netcoreapp2.1\Chainblock.Tests.runtimeconfig.json
+D:\SoftUni\c#-OOP\SkeletonExercise\Chainblock - Skeleton\Chainblock.Tests\bin\Debug\netcoreapp2.1\Chainblock.Tests.runtimeconfig.dev.json
+D:\SoftUni\c#-OOP\SkeletonExercise\Chainblock - Skeleton\Chainblock.Tests\bin\Debug\netcoreapp2.1\Chainblock.Tests.dll
+D:\SoftUni\c#-OOP\SkeletonExercise\Chainblock - Skeleton\Chainblock.Tests\bin\Debug\netcoreapp2.1\Chainblock.Tests.pdb
+D:\SoftUni\c#-OOP\SkeletonExercise\Chainblock - Skeleton\Chainblock.Tests\bin\Debug\netcoreapp2.1\Chainblock.dll
+D:\SoftUni\c#-OOP\SkeletonExercise\Chainblock - Skeleton\Chainblock.Tests\bin\Debug\netcoreapp2.1\Chainblock.pdb
+D:\SoftUni\c#-OOP\SkeletonExercise\Chainblock - Skeleton\Chainblock.Tests\obj\Debug\netcoreapp2.1\Chainblock.Tests.csprojAssemblyReference.cache
+D:\SoftUni\c#-OOP\SkeletonExercise\Chainblock - Skeleton\Chainblock.Tests\obj\Debug\netcoreapp2.1\Chainblock.Tests.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-OOP\SkeletonExercise\Chainblock - Skeleton\Chainblock.Tests\obj\Debug\netcoreapp2.1\Chainblock.Tests.AssemblyInfoInputs.cache
+D:\SoftUni\c#-OOP\SkeletonExercise\Chainblock - Skeleton\Chainblock.Tests\obj\Debug\netcoreapp2.1\Chainblock.Tests.AssemblyInfo.cs
+D:\SoftUni\c#-OOP\SkeletonExercise\Chainblock - Skeleton\Chainblock.Tests\obj\Debug\netcoreapp2.1\Chainblock.Tests.csproj.CopyComplete
+D:\SoftUni\c#-OOP\SkeletonExercise\Chainblock - Skeleton\Chainblock.Tests\obj\Debug\netcoreapp2.1\Chainblock.Tests.dll
+D:\SoftUni\c#-OOP\SkeletonExercise\Chainblock - Skeleton\Chainblock.Tests\obj\Debug\netcoreapp2.1\Chainblock.Tests.pdb

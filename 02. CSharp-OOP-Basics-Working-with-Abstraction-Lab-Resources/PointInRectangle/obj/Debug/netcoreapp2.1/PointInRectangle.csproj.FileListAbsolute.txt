@@ -1,0 +1,11 @@
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.deps.json
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.runtimeconfig.json
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.runtimeconfig.dev.json
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.dll
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.pdb
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.csprojAssemblyReference.cache
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.csproj.CoreCompileInputs.cache
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.AssemblyInfoInputs.cache
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.AssemblyInfo.cs
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.dll
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.pdb

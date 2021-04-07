@@ -1,0 +1,11 @@
+D:\SoftUni\c#-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.deps.json
+D:\SoftUni\c#-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.runtimeconfig.json
+D:\SoftUni\c#-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.runtimeconfig.dev.json
+D:\SoftUni\c#-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.dll
+D:\SoftUni\c#-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.pdb
+D:\SoftUni\c#-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.csprojAssemblyReference.cache
+D:\SoftUni\c#-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.AssemblyInfoInputs.cache
+D:\SoftUni\c#-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.AssemblyInfo.cs
+D:\SoftUni\c#-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.dll
+D:\SoftUni\c#-OOP\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.pdb

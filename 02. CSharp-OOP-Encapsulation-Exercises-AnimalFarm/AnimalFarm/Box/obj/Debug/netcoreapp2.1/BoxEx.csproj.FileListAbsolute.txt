@@ -1,0 +1,11 @@
+D:\SoftUni\c#-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\Box\bin\Debug\netcoreapp2.1\BoxEx.deps.json
+D:\SoftUni\c#-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\Box\bin\Debug\netcoreapp2.1\BoxEx.runtimeconfig.json
+D:\SoftUni\c#-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\Box\bin\Debug\netcoreapp2.1\BoxEx.runtimeconfig.dev.json
+D:\SoftUni\c#-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\Box\bin\Debug\netcoreapp2.1\BoxEx.dll
+D:\SoftUni\c#-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\Box\bin\Debug\netcoreapp2.1\BoxEx.pdb
+D:\SoftUni\c#-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\Box\obj\Debug\netcoreapp2.1\BoxEx.csprojAssemblyReference.cache
+D:\SoftUni\c#-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\Box\obj\Debug\netcoreapp2.1\BoxEx.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\Box\obj\Debug\netcoreapp2.1\BoxEx.AssemblyInfoInputs.cache
+D:\SoftUni\c#-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\Box\obj\Debug\netcoreapp2.1\BoxEx.AssemblyInfo.cs
+D:\SoftUni\c#-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\Box\obj\Debug\netcoreapp2.1\BoxEx.dll
+D:\SoftUni\c#-OOP\02. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\Box\obj\Debug\netcoreapp2.1\BoxEx.pdb

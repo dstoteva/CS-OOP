@@ -1,0 +1,11 @@
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\RhombusofStars\bin\Debug\netcoreapp2.1\RhombusofStars.deps.json
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\RhombusofStars\bin\Debug\netcoreapp2.1\RhombusofStars.runtimeconfig.json
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\RhombusofStars\bin\Debug\netcoreapp2.1\RhombusofStars.runtimeconfig.dev.json
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\RhombusofStars\bin\Debug\netcoreapp2.1\RhombusofStars.dll
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\RhombusofStars\bin\Debug\netcoreapp2.1\RhombusofStars.pdb
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\RhombusofStars\obj\Debug\netcoreapp2.1\RhombusofStars.csprojAssemblyReference.cache
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\RhombusofStars\obj\Debug\netcoreapp2.1\RhombusofStars.csproj.CoreCompileInputs.cache
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\RhombusofStars\obj\Debug\netcoreapp2.1\RhombusofStars.AssemblyInfoInputs.cache
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\RhombusofStars\obj\Debug\netcoreapp2.1\RhombusofStars.AssemblyInfo.cs
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\RhombusofStars\obj\Debug\netcoreapp2.1\RhombusofStars.dll
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\RhombusofStars\obj\Debug\netcoreapp2.1\RhombusofStars.pdb

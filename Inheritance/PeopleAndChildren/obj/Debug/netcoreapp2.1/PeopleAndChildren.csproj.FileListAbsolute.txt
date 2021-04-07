@@ -1,0 +1,11 @@
+C:\Users\dstoteva\source\repos\Inheritance\PeopleAndChildren\bin\Debug\netcoreapp2.1\PeopleAndChildren.deps.json
+C:\Users\dstoteva\source\repos\Inheritance\PeopleAndChildren\bin\Debug\netcoreapp2.1\PeopleAndChildren.runtimeconfig.json
+C:\Users\dstoteva\source\repos\Inheritance\PeopleAndChildren\bin\Debug\netcoreapp2.1\PeopleAndChildren.runtimeconfig.dev.json
+C:\Users\dstoteva\source\repos\Inheritance\PeopleAndChildren\bin\Debug\netcoreapp2.1\PeopleAndChildren.dll
+C:\Users\dstoteva\source\repos\Inheritance\PeopleAndChildren\bin\Debug\netcoreapp2.1\PeopleAndChildren.pdb
+C:\Users\dstoteva\source\repos\Inheritance\PeopleAndChildren\obj\Debug\netcoreapp2.1\PeopleAndChildren.csprojAssemblyReference.cache
+C:\Users\dstoteva\source\repos\Inheritance\PeopleAndChildren\obj\Debug\netcoreapp2.1\PeopleAndChildren.csproj.CoreCompileInputs.cache
+C:\Users\dstoteva\source\repos\Inheritance\PeopleAndChildren\obj\Debug\netcoreapp2.1\PeopleAndChildren.AssemblyInfoInputs.cache
+C:\Users\dstoteva\source\repos\Inheritance\PeopleAndChildren\obj\Debug\netcoreapp2.1\PeopleAndChildren.AssemblyInfo.cs
+C:\Users\dstoteva\source\repos\Inheritance\PeopleAndChildren\obj\Debug\netcoreapp2.1\PeopleAndChildren.dll
+C:\Users\dstoteva\source\repos\Inheritance\PeopleAndChildren\obj\Debug\netcoreapp2.1\PeopleAndChildren.pdb

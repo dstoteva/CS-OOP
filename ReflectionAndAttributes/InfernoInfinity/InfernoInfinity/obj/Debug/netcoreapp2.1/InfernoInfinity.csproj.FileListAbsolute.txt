@@ -1,0 +1,11 @@
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\InfernoInfinity\InfernoInfinity\obj\Debug\netcoreapp2.1\InfernoInfinity.csprojAssemblyReference.cache
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\InfernoInfinity\InfernoInfinity\obj\Debug\netcoreapp2.1\InfernoInfinity.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\InfernoInfinity\InfernoInfinity\obj\Debug\netcoreapp2.1\InfernoInfinity.AssemblyInfoInputs.cache
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\InfernoInfinity\InfernoInfinity\obj\Debug\netcoreapp2.1\InfernoInfinity.AssemblyInfo.cs
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\InfernoInfinity\InfernoInfinity\bin\Debug\netcoreapp2.1\InfernoInfinity.deps.json
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\InfernoInfinity\InfernoInfinity\bin\Debug\netcoreapp2.1\InfernoInfinity.runtimeconfig.json
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\InfernoInfinity\InfernoInfinity\bin\Debug\netcoreapp2.1\InfernoInfinity.runtimeconfig.dev.json
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\InfernoInfinity\InfernoInfinity\bin\Debug\netcoreapp2.1\InfernoInfinity.dll
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\InfernoInfinity\InfernoInfinity\bin\Debug\netcoreapp2.1\InfernoInfinity.pdb
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\InfernoInfinity\InfernoInfinity\obj\Debug\netcoreapp2.1\InfernoInfinity.dll
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\InfernoInfinity\InfernoInfinity\obj\Debug\netcoreapp2.1\InfernoInfinity.pdb

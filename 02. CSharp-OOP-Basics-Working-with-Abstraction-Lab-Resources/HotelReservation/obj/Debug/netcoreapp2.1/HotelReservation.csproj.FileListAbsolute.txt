@@ -1,0 +1,11 @@
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\HotelReservation\bin\Debug\netcoreapp2.1\HotelReservation.deps.json
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\HotelReservation\bin\Debug\netcoreapp2.1\HotelReservation.runtimeconfig.json
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\HotelReservation\bin\Debug\netcoreapp2.1\HotelReservation.runtimeconfig.dev.json
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\HotelReservation\bin\Debug\netcoreapp2.1\HotelReservation.dll
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\HotelReservation\bin\Debug\netcoreapp2.1\HotelReservation.pdb
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\HotelReservation\obj\Debug\netcoreapp2.1\HotelReservation.csprojAssemblyReference.cache
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\HotelReservation\obj\Debug\netcoreapp2.1\HotelReservation.csproj.CoreCompileInputs.cache
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\HotelReservation\obj\Debug\netcoreapp2.1\HotelReservation.AssemblyInfoInputs.cache
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\HotelReservation\obj\Debug\netcoreapp2.1\HotelReservation.AssemblyInfo.cs
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\HotelReservation\obj\Debug\netcoreapp2.1\HotelReservation.dll
+D:\SoftUni\temp\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\HotelReservation\obj\Debug\netcoreapp2.1\HotelReservation.pdb

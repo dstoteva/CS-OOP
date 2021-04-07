@@ -1,0 +1,17 @@
+D:\SoftUni\temp\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+D:\SoftUni\temp\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+D:\SoftUni\temp\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+D:\SoftUni\temp\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\Skeleton.Tests.deps.json
+D:\SoftUni\temp\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\Skeleton.Tests.runtimeconfig.json
+D:\SoftUni\temp\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\Skeleton.Tests.runtimeconfig.dev.json
+D:\SoftUni\temp\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\Skeleton.Tests.dll
+D:\SoftUni\temp\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\Skeleton.Tests.pdb
+D:\SoftUni\temp\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\Skeleton.dll
+D:\SoftUni\temp\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\Skeleton.pdb
+D:\SoftUni\temp\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.0\Skeleton.Tests.csprojAssemblyReference.cache
+D:\SoftUni\temp\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.0\Skeleton.Tests.csproj.CoreCompileInputs.cache
+D:\SoftUni\temp\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.0\Skeleton.Tests.AssemblyInfoInputs.cache
+D:\SoftUni\temp\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.0\Skeleton.Tests.AssemblyInfo.cs
+D:\SoftUni\temp\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.0\Skeleton.Tests.csproj.CopyComplete
+D:\SoftUni\temp\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.0\Skeleton.Tests.dll
+D:\SoftUni\temp\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.0\Skeleton.Tests.pdb

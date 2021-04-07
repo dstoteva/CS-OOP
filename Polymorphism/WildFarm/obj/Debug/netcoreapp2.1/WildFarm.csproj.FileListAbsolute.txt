@@ -1,0 +1,11 @@
+D:\SoftUni\c#-OOP\Polymorphism\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.deps.json
+D:\SoftUni\c#-OOP\Polymorphism\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.runtimeconfig.json
+D:\SoftUni\c#-OOP\Polymorphism\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.runtimeconfig.dev.json
+D:\SoftUni\c#-OOP\Polymorphism\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.dll
+D:\SoftUni\c#-OOP\Polymorphism\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.pdb
+D:\SoftUni\c#-OOP\Polymorphism\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.csprojAssemblyReference.cache
+D:\SoftUni\c#-OOP\Polymorphism\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-OOP\Polymorphism\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.AssemblyInfoInputs.cache
+D:\SoftUni\c#-OOP\Polymorphism\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.AssemblyInfo.cs
+D:\SoftUni\c#-OOP\Polymorphism\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.dll
+D:\SoftUni\c#-OOP\Polymorphism\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.pdb

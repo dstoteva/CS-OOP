@@ -1,0 +1,9 @@
+D:\SoftUni\temp\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.1\Skeleton.Tests.deps.json
+D:\SoftUni\temp\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.1\Skeleton.Tests.dll
+D:\SoftUni\temp\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.1\Skeleton.Tests.csprojAssemblyReference.cache
+D:\SoftUni\temp\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.1\Skeleton.Tests.csproj.CoreCompileInputs.cache
+D:\SoftUni\temp\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.1\Skeleton.Tests.AssemblyInfoInputs.cache
+D:\SoftUni\temp\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.1\Skeleton.Tests.AssemblyInfo.cs
+D:\SoftUni\temp\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\SoftUni\temp\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\SoftUni\temp\09. CSharp-OOP-Unit-Testing-Lab-Skeleton\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll

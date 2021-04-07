@@ -1,0 +1,11 @@
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\CreateCustomClassAttribute\CreateCustomClassAttribute\bin\Debug\netcoreapp2.1\CreateCustomClassAttribute.deps.json
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\CreateCustomClassAttribute\CreateCustomClassAttribute\bin\Debug\netcoreapp2.1\CreateCustomClassAttribute.runtimeconfig.json
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\CreateCustomClassAttribute\CreateCustomClassAttribute\bin\Debug\netcoreapp2.1\CreateCustomClassAttribute.runtimeconfig.dev.json
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\CreateCustomClassAttribute\CreateCustomClassAttribute\bin\Debug\netcoreapp2.1\CreateCustomClassAttribute.dll
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\CreateCustomClassAttribute\CreateCustomClassAttribute\bin\Debug\netcoreapp2.1\CreateCustomClassAttribute.pdb
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\CreateCustomClassAttribute\CreateCustomClassAttribute\obj\Debug\netcoreapp2.1\CreateCustomClassAttribute.csprojAssemblyReference.cache
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\CreateCustomClassAttribute\CreateCustomClassAttribute\obj\Debug\netcoreapp2.1\CreateCustomClassAttribute.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\CreateCustomClassAttribute\CreateCustomClassAttribute\obj\Debug\netcoreapp2.1\CreateCustomClassAttribute.AssemblyInfoInputs.cache
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\CreateCustomClassAttribute\CreateCustomClassAttribute\obj\Debug\netcoreapp2.1\CreateCustomClassAttribute.AssemblyInfo.cs
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\CreateCustomClassAttribute\CreateCustomClassAttribute\obj\Debug\netcoreapp2.1\CreateCustomClassAttribute.dll
+D:\SoftUni\c#-OOP\ReflectionAndAttributes\CreateCustomClassAttribute\CreateCustomClassAttribute\obj\Debug\netcoreapp2.1\CreateCustomClassAttribute.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\temp\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P03_BarraksWars\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.deps.json
+D:\SoftUni\temp\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P03_BarraksWars\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.json
+D:\SoftUni\temp\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P03_BarraksWars\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.dev.json
+D:\SoftUni\temp\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P03_BarraksWars\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.dll
+D:\SoftUni\temp\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P03_BarraksWars\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.pdb
+D:\SoftUni\temp\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P03_BarraksWars\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csprojAssemblyReference.cache
+D:\SoftUni\temp\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P03_BarraksWars\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csproj.CoreCompileInputs.cache
+D:\SoftUni\temp\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P03_BarraksWars\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfoInputs.cache
+D:\SoftUni\temp\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P03_BarraksWars\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfo.cs
+D:\SoftUni\temp\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P03_BarraksWars\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.dll
+D:\SoftUni\temp\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P03_BarraksWars\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.pdb
